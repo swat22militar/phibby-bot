@@ -1,0 +1,14 @@
+{
+  "name": "phibby-web",
+  "version": "1.0.0",
+  "description": "My Personal proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "edu__579",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
